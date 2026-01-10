@@ -1,5 +1,4 @@
-![alt text][logo]
-[logo]:https://crdroid.net/img/logo.png "crDroid Android"
+![crDroid Android](https://crdroid.net/img/logo.png)
 ---------------
 
 - [Download](https://crdroid.net/)
