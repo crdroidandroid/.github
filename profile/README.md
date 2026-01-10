@@ -20,13 +20,16 @@ part of the system - Status bar, quick settings, navigation, gestures,
 lockscreen, and theming. You decide how your device looks and behaves.
 
 > Performance matters.
+
 crDroid aims to keep the system smooth without aggressive tweaks.
 Battery life stays balanced. Animations stay fluid.
 
 > Security stays up to date.
+
 The ROM tracks AOSP changes closely and ships recent security patches.
 
 > crDroid is fully open source and community driven.
+
 Developers, maintainers, and users collaborate openly.
 
 If you want control without sacrificing stability, crDroid is built for you.
@@ -34,10 +37,12 @@ If you want control without sacrificing stability, crDroid is built for you.
 ### Warning 
 
 > Be careful when flashing high-risk custom ROMs.
+
 Some ROMs, including DerpFest, are closed source and maintained by developers
 who are banned from major Android communities.
 
 > Closed source ROMs cannot be audited.
+
 You cannot verify what code runs on your device. This increases the risk of
 malware, data leaks, and unauthorized access to personal information.
 
