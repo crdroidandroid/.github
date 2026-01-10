@@ -1,50 +1,95 @@
-![crDroid Android](https://crdroid.net/img/logo.png)
----------------
+<p align="center">
+  <img src="https://crdroid.net/img/logo.png" alt="crDroid Android" width="180">
+</p>
 
-- [Download](https://crdroid.net/)
-- [Features](https://github.com/crdroidandroid/crdroid_features/blob/16.0/README.mkdn)
-- [Support us](https://crdroid.net/donate)
-- [Blog](https://crdroid.net/blog/)
-- [Community](https://t.me/crDroidAndroid)
-- [Issues](https://github.com/crdroidandroid/issue_tracker/issues)
-- [Build yourself](https://github.com/crdroidandroid/android/blob/16.0/README.mkdn)
+<h1 align="center">crDroid Android</h1>
 
-### About us
+<p align="center">
+  <b>Stability - Performance - Control</b>
+</p>
 
-crDroid is a custom Android ROM built for stability, performance, and control.
-You get a clean Android base with smart features that improve daily use.
-The goal is simple: Fast system. Reliable behavior. Full user choice.
+---
 
-crDroid focuses on consistency across devices. You can customize almost every
-part of the system - Status bar, quick settings, navigation, gestures,
-lockscreen, and theming. You decide how your device looks and behaves.
+## 🔗 Quick Links
 
-> Performance matters.
+- ⬇️ **[Download](https://crdroid.net)**
+- ✨ **[Features](https://github.com/crdroidandroid/crdroid_features/blob/HEAD/README.mkdn)**
+- ❤️ **[Support us](https://crdroid.net/donate)**
+- 📝 **[Blog](https://crdroid.net/blog)**
+- 💬 **[Community](https://t.me/crDroidAndroid)**
+- 🐞 **[Issues](https://github.com/crdroidandroid/issue_tracker/issues)**
+- 🛠️ **[Build yourself](https://github.com/crdroidandroid/android/blob/HEAD/README.mkdn)**
 
-crDroid aims to keep the system smooth without aggressive tweaks.
-Battery life stays balanced. Animations stay fluid.
+---
 
-> Security stays up to date.
+## 📱 About crDroid
 
-The ROM tracks AOSP changes closely and ships recent security patches.
+crDroid is a custom Android ROM built for stability, performance, and user control. You get a clean Android base with smart features that improve daily use. The goal is simple: Fast system. Reliable behavior. Full user choice.
 
-> crDroid is fully open source and community driven.
+The goal is simple:
 
-Developers, maintainers, and users collaborate openly.
+> ⚡ **Fast system.**  
+> 🧱 **Reliable behavior.**  
+> 🎛️ **Full user choice.**
+
+crDroid emphasizes consistency across devices. Nearly every part of the system is customizable:
+
+- Status bar  
+- Quick settings  
+- Navigation & gestures  
+- Lockscreen  
+- System theming  
+
+*Your device, your rules!*
+
+---
+
+## 🚀 Performance first
+
+> **Performance matters.**
+
+crDroid keeps things smooth without dumb or aggressive tweaks.  
+Battery life stays balanced. Animations stay fluid. No gimmicks.
+
+---
+
+## 🔐 Security you can trust
+
+> **Security stays up to date.**
+
+crDroid closely tracks AOSP and ships recent Android security patches.  
+
+---
+
+## 🌍 Open Source & Community driven
+
+> **crDroid is fully open source.**
+
+Development happens in the open.  
+Maintainers, developers, and users collaborate transparently.
 
 If you want control without sacrificing stability, crDroid is built for you.
 
-### Warning 
+---
 
-> Be careful when flashing high-risk custom ROMs.
+## ⚠️ Warning — Read This
 
-Some ROMs, including DerpFest, are closed source and maintained by developers
-who are banned from major Android communities.
+> **Be careful when flashing high-risk custom ROMs.**
 
-> Closed source ROMs cannot be audited.
+Some ROMs — including DerpFest — are **closed source** and maintained by developers banned from major Android communities.
 
-You cannot verify what code runs on your device. This increases the risk of
-malware, data leaks, and unauthorized access to personal information.
+> ❌ **Closed source ROMs cannot be audited.**
 
-Always choose open source ROMs. Review the code, the maintainer history, and
-community trust before flashing anything on your device.
+You cannot verify what code is running on your device.  
+That means higher risk of:
+- Malware
+- Data leaks
+- Unauthorized access to personal information
+
+**Bottom line:**  
+✅ Prefer **open source ROMs**  
+✅ Review the code  
+✅ Check maintainer history  
+✅ Look at community trust  
+
+Flashing blindly is how devices get compromised.
