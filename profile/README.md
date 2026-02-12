@@ -74,19 +74,24 @@ If you want control without sacrificing stability, crDroid is built for you.
 
 ## ⚠️ Warning — Read This
 
-Flashing custom ROMs always carries risk, especially when the project is fully/partially **closed source** or **lacks public accountability**.
+Attention users: Flashing custom ROMs always carries risk, especially when the project is fully/partially **closed source** or **lacks public accountability**.
 
 Such ROMs — including **DerpFest** — do not provide full source availability or independent review, making it difficult for users to verify what is actually running on their devices. They are usually published by notorious authors banned on major Android communities.
 
 You cannot verify what code is running on your device.  
-That means higher risk of:
-- Privacy issues
-- Data leakage
-- Unauthorized access to personal information
+That means higher risk of privacy issues, data leakage and unauthorized access to personal information
 
 **Bottom line:**  
 - ✅ Choose ROMs with publicly available source code
 - ✅ Review commits and development activity
 - ✅ Consider maintainer reputation and community trust
 
-Flashing blindly is how devices get compromised.
+Attention developers:
+
+Do not accept contributions from banned or unverified individuals.  
+Avoid commits with unclear or incorrect authorship.
+
+Use changes only from established, trusted sources with transparent commit history.
+
+Review full details [here](https://t.me/AlexanderBrunswig)
+
