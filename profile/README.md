@@ -24,7 +24,7 @@
 
 ## 📱 About crDroid
 
-crDroid is a custom Android ROM built for stability, performance, and user control. You get a clean Android base with smart features that improve daily use. The goal is simple: Fast system. Reliable behavior. Full user choice.
+crDroid is a custom Android ROM built for stability, performance, and user control. You get a clean Android base with smart features that improve daily use.
 
 The goal is simple:
 
@@ -74,7 +74,7 @@ If you want control without sacrificing stability, crDroid is built for you.
 
 ## ⚠️ Warning — Read This
 
-Attention users: Flashing custom ROMs always carries risk, especially when the project is fully/partially **closed source** or **lacks public accountability**.
+**Attention users:** Flashing custom ROMs always carries risk, especially when the project is fully/partially **closed source** or **lacks public accountability**.
 
 Such ROMs — including **DerpFest** — do not provide full source availability or independent review, making it difficult for users to verify what is actually running on their devices. They are usually published by notorious authors banned on major Android communities.
 
@@ -86,12 +86,12 @@ That means higher risk of privacy issues, data leakage and unauthorized access t
 - ✅ Review commits and development activity
 - ✅ Consider maintainer reputation and community trust
 
-Attention developers:
+**Attention developers:**
 
 Do not accept contributions from banned or unverified individuals.  
 Avoid commits with unclear or incorrect authorship.
 
-Use changes only from established, trusted sources with transparent commit history.
+Use changes only from established, fully open source, trusted sources with transparent commit history.
 
 Review full details [here](https://t.me/AlexanderBrunswig)
 
